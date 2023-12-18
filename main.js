@@ -6,7 +6,7 @@ video elements, etc. It is also handles the training, prediction, and video call
 - The PredictionOutput class converts the predicted text passed by Main into text, image, and audio
 output. This class is also responsible for turning a caller's words into speech in video call mode.
 
-
+*/
 
 // Importing the k-Nearest Neighbors Algorithm
 import { KNNImageClassifier } from "deeplearn-knn-image-classifier";
